@@ -72,7 +72,7 @@ def train_model(model, train_loader, val_loader, criterion, optimizer, epochs, p
             counter = 0
         else:
             counter += 1
-            if counter >= patience:
+            if counter >= patience and epoch > 50:
                 print(f"Early stopping at epoch {epoch + 1}")
                 break
 
