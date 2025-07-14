@@ -1,0 +1,60 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="47">
+            <item index="0" class="java.lang.String" itemvalue="langchain-openai" />
+            <item index="1" class="java.lang.String" itemvalue="gradio" />
+            <item index="2" class="java.lang.String" itemvalue="jieba" />
+            <item index="3" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="4" class="java.lang.String" itemvalue="nltk" />
+            <item index="5" class="java.lang.String" itemvalue="langchain-huggingface" />
+            <item index="6" class="java.lang.String" itemvalue="html2text" />
+            <item index="7" class="java.lang.String" itemvalue="hanziconv" />
+            <item index="8" class="java.lang.String" itemvalue="datasets" />
+            <item index="9" class="java.lang.String" itemvalue="flake8" />
+            <item index="10" class="java.lang.String" itemvalue="python-magic" />
+            <item index="11" class="java.lang.String" itemvalue="tortoise" />
+            <item index="12" class="java.lang.String" itemvalue="FlagEmbedding" />
+            <item index="13" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="14" class="java.lang.String" itemvalue="umap-learn" />
+            <item index="15" class="java.lang.String" itemvalue="langchain" />
+            <item index="16" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="17" class="java.lang.String" itemvalue="html_text" />
+            <item index="18" class="java.lang.String" itemvalue="accelerate" />
+            <item index="19" class="java.lang.String" itemvalue="PyPDF2" />
+            <item index="20" class="java.lang.String" itemvalue="xgboost" />
+            <item index="21" class="java.lang.String" itemvalue="codecov" />
+            <item index="22" class="java.lang.String" itemvalue="coverage" />
+            <item index="23" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="24" class="java.lang.String" itemvalue="PyMuPDF" />
+            <item index="25" class="java.lang.String" itemvalue="transformers" />
+            <item index="26" class="java.lang.String" itemvalue="python-docx" />
+            <item index="27" class="java.lang.String" itemvalue="pytest" />
+            <item index="28" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="29" class="java.lang.String" itemvalue="h5py" />
+            <item index="30" class="java.lang.String" itemvalue="datrie" />
+            <item index="31" class="java.lang.String" itemvalue="flake8_docstrings" />
+            <item index="32" class="java.lang.String" itemvalue="xpinyin" />
+            <item index="33" class="java.lang.String" itemvalue="hyperopt" />
+            <item index="34" class="java.lang.String" itemvalue="loguru" />
+            <item index="35" class="java.lang.String" itemvalue="python-pptx" />
+            <item index="36" class="java.lang.String" itemvalue="tqdm" />
+            <item index="37" class="java.lang.String" itemvalue="pandas" />
+            <item index="38" class="java.lang.String" itemvalue="openai" />
+            <item index="39" class="java.lang.String" itemvalue="sentence_transformers" />
+            <item index="40" class="java.lang.String" itemvalue="readability" />
+            <item index="41" class="java.lang.String" itemvalue="bm25s" />
+            <item index="42" class="java.lang.String" itemvalue="pdfplumber" />
+            <item index="43" class="java.lang.String" itemvalue="langchain-core" />
+            <item index="44" class="java.lang.String" itemvalue="langchain-text-splitters" />
+            <item index="45" class="java.lang.String" itemvalue="pydocstyle" />
+            <item index="46" class="java.lang.String" itemvalue="langsmith" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
